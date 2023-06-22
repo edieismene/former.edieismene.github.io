@@ -5,16 +5,12 @@ permalink: /about/
 published: true
 ---
 
-Some information about me!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Data analyst and photographer based in Brooklyn. Born in Gainesville, Georgia (the state not the country) and raised in Athens, Greece. I'm not going to explain more.
 
 ### Contact me
 
 please don't.
 
-[email@domain.com](mailto:email@domain.com)
+
 
 
