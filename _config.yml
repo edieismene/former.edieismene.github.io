@@ -16,7 +16,7 @@ avatar: https://pbs.twimg.com/profile_images/1498752776809205772/yJUz4-Gt_400x40
 #
 
 #theme
-#remote_theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 # Includes an icon in the footer for each username you enter
 footer-links:
