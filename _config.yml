@@ -6,10 +6,12 @@
 name: Edie's photo blog
 
 # Short bio or description (displayed in the header)
-description: 
+description: .
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/1498752776809205772/yJUz4-Gt_400x400.jpg
+avatar: images/UNADJUSTEDNONRAW_thumb_379b.jpeg
+
+# courage image https://pbs.twimg.com/profile_images/1498752776809205772/yJUz4-Gt_400x400.jpg
 
 #
 # Flags below are optional
