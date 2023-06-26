@@ -17,7 +17,7 @@ avatar: images/UNADJUSTEDNONRAW_thumb_379b.jpeg
 # Flags below are optional
 #
 
-theme: minima
+#theme: minima
 #source: https://github.com/riggraz/no-style-please/blob/master/_config.yml
 #remote_theme: riggraz/no-style-please
 
