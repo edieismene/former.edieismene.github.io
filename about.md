@@ -5,11 +5,13 @@ permalink: /about/
 published: true
 ---
 
-Data analyst and photographer based in Brooklyn. Born in Gainesville, Georgia (the state not the country) and raised in Athens, Greece. I'm not going to explain more.
+A space for me to share my photos. 
+
+Currently based in Brooklyn. Raised in Athens, Greece. Lived many places in between.
 
 ### Contact me
 
-please don't.
+tangerine.trampoline.photography@gmail.com
 
 
 
