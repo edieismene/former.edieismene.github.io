@@ -5,16 +5,14 @@ permalink: /about/
 published: true
 ---
 
-Some information about me!
+A space for me to share my photos. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Currently based in Brooklyn. Raised in Athens, Greece. Lived many places in between.
 
 ### Contact me
 
-please don't.
+tangerine.trampoline.photography@gmail.com
 
-[email@domain.com](mailto:email@domain.com)
+
 
 
